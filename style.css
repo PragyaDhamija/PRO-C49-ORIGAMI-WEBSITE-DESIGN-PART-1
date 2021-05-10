@@ -1,0 +1,18 @@
+h1{
+    color : blue;
+}
+body{
+    background-color : lightblue;
+    background-image: url("background.jpg");
+}
+h4{
+    color : purple;
+    font-family: comic sans ms;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px;
+}
+ul{
+    color : green;
+}
